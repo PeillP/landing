@@ -1,0 +1,29 @@
+.banner {
+  background-image: url("https://www.roadaffair.com/wp-content/uploads/2017/10/cologne-night-germany-shutterstock_426521938-1024x683.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+.container {
+  width: 900px;
+  margin: 30px;
+}
+h1, h2 ,h3, h4 {
+  font-family: sans-serif;
+}
+.banner h1, h2 {
+  color: white;
+  font-weight: bold;
+}
+.banner h1 {
+  font-size: 40px;
+}
+.banner h2 {
+  font-size: 35px;
+}
+.banner p {
+  color: white;
+  opacity: .9;
+  font-size: 30px;
+}
+
